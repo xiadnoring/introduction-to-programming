@@ -1,2 +1,2 @@
 # Introduction To Programming
-It is a course from Innopolis University
+It is a course at Innopolis University
